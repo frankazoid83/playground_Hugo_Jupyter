@@ -3,4 +3,4 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 
 [taxonomies]
-category = "Categories"
+category = "categories"
