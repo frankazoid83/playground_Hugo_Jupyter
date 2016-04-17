@@ -23917,10 +23917,10 @@ require(
     
     <item>
       <title>testnotebook 2</title>
-      <link>http://localhost:1313/post/testnotebook2/</link>
+      <link>http://localhost:1313/post/testnotebook3/</link>
       <pubDate>Sat, 09 Apr 2016 22:24:03 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/testnotebook2/</guid>
+      <guid>http://localhost:1313/post/testnotebook3/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -35870,10 +35870,10 @@ require(
     
     <item>
       <title>testnotebook 2</title>
-      <link>http://localhost:1313/post/testnotebook3/</link>
+      <link>http://localhost:1313/post/testnotebook2/</link>
       <pubDate>Sat, 09 Apr 2016 22:24:03 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/testnotebook3/</guid>
+      <guid>http://localhost:1313/post/testnotebook2/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
